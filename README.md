@@ -1,4 +1,4 @@
-# Fruit-Freshness-Ripeness
+# Image Classification
 
 ### Using Convolutional Neural Networks (CNNs) to predict the freshness and ripeness of fruits.
 
